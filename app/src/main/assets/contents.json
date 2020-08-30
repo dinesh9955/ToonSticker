@@ -1,0 +1,1406 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "smileys",
+      "name": "Smileys",
+      "publisher": "Dinesh",
+      "tray_image_file": "icon.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers/",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "wa_smileys_0.webp",
+          "emojis": ["😘","❤️"]
+        },
+        {
+          "image_file": "wa_smileys_1.webp",
+          "emojis": ["😘","❤️"]
+        },
+        {
+          "image_file": "wa_smileys_2.webp",
+          "emojis": ["😍","❤️"]
+        },
+        {
+          "image_file": "wa_smileys_3.webp",
+          "emojis": ["😍","❤️"]
+        },
+        {
+          "image_file": "wa_smileys_4.webp",
+          "emojis": ["😘","❤️"]
+        },
+        {
+          "image_file": "wa_smileys_5.webp",
+          "emojis": ["😴","️💤"]
+        },
+        {
+          "image_file": "wa_smileys_6.webp",
+          "emojis": ["🌹","❤️"]
+        },
+        {
+          "image_file": "wa_smileys_7.webp",
+          "emojis": ["👧","🤔️"]
+        },
+        {
+          "image_file": "wa_smileys_8.webp",
+          "emojis": ["😊","👧️"]
+        },
+        {
+          "image_file": "wa_smileys_9.webp",
+          "emojis": ["😊","👦️"]
+        },
+        {
+          "image_file": "wa_smileys_10.webp",
+          "emojis": ["😭","😢️"]
+        },
+        {
+          "image_file": "wa_smileys_11.webp",
+          "emojis": ["😀","👍️"]
+        },
+        {
+          "image_file": "wa_smileys_12.webp",
+          "emojis": ["😀","👏️"]
+        },
+        {
+          "image_file": "wa_smileys_13.webp",
+          "emojis": ["😊","💋️"]
+        },
+        {
+          "image_file": "wa_smileys_14.webp",
+          "emojis": ["😀","👌"]
+        },
+        {
+          "image_file": "wa_smileys_15.webp",
+          "emojis": ["😳","✋️"]
+        },
+        {
+          "image_file": "wa_smileys_16.webp",
+          "emojis": ["😠","⏰️️"]
+        },
+        {
+          "image_file": "wa_smileys_17.webp",
+          "emojis": ["😀","☕️"]
+        },
+        {
+          "image_file": "wa_smileys_18.webp",
+          "emojis": ["😀","🍷️"]
+        },
+        {
+          "image_file": "wa_smileys_19.webp",
+          "emojis": ["😮","😲️"]
+        },
+        {
+          "image_file": "wa_smileys_20.webp",
+          "emojis": ["🤗","👶️"]
+        },
+        {
+          "image_file": "wa_smileys_21.webp",
+          "emojis": ["💑","🤗️"]
+        },
+        {
+          "image_file": "wa_smileys_22.webp",
+          "emojis": ["💑","❤️"]
+        },
+        {
+          "image_file": "wa_smileys_23.webp",
+          "emojis": ["🤗","❤️"]
+        },
+        {
+          "image_file": "wa_smileys_24.webp",
+          "emojis": ["🎁","❤️"]
+        },
+        {
+          "image_file": "wa_smileys_25.webp",
+          "emojis": ["🎁","❤️"]
+        },
+        {
+          "image_file": "wa_smileys_26.webp",
+          "emojis": ["💑","❤️"]
+        },
+        {
+          "image_file": "wa_smileys_27.webp",
+          "emojis": ["💑","❤️"]
+        },
+        {
+          "image_file": "wa_smileys_28.webp",
+          "emojis": ["😍","❤️"]
+        },
+        {
+          "image_file": "wa_smileys_29.webp",
+          "emojis": ["😍","❤️"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "likes",
+      "name": "Likes",
+      "publisher": "Dinesh",
+      "tray_image_file": "like.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "👍",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "👐",
+            "👐"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "👌",
+            "👌"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "✌",
+            "✌"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "👐",
+            "👐"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "👏",
+            "👏"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "✋🏽🤚🏽",
+            "✋🏽🤚🏽"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "🏽🤚🏽",
+            "🏽🤚🏽"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "🤞🏽",
+            "🤞🏽"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "🤲🏿",
+            "🤲🏿"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "✍🏻",
+            "✍🏻"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "🤞🏻",
+            "🤞🏻"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "👈🏻",
+            "👈🏻"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "✋🏻",
+            "✋🏻"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "👐🏻",
+            "👐🏻"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "👆🏻",
+            "👆🏻"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "👊",
+            "👊"
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier": "1001_santa1",
+      "name": "Santa",
+      "publisher": "Dinesh",
+      "tray_image_file": "santa.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers/",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        },
+        {
+          "image_file": "30.webp"
+        }
+      ]
+    },
+
+    {
+      "identifier": "mouths",
+      "name": "Mouths",
+      "publisher": "Dinesh",
+      "tray_image_file": "icon.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "wa_mouth_0.webp",
+          "emojis": ["👄","❤"]
+        },
+        {
+          "image_file": "wa_mouth_1.webp",
+          "emojis": ["💋","❤"]
+        },
+        {
+          "image_file": "wa_mouth_2.webp",
+          "emojis": ["👄","❤"]
+        },
+        {
+          "image_file": "wa_mouth_3.webp",
+          "emojis": ["👄","👅"]
+        },
+        {
+          "image_file": "wa_mouth_4.webp",
+          "emojis": ["👄","🍒"]
+        },
+        {
+          "image_file": "wa_mouth_5.webp",
+          "emojis": ["👄","👅"]
+        },
+        {
+          "image_file": "wa_mouth_6.webp",
+          "emojis": ["👄","😍"]
+        },
+        {
+          "image_file": "wa_mouth_7.webp",
+          "emojis": ["👄","❤"]
+        },
+        {
+          "image_file": "wa_mouth_8.webp",
+          "emojis": ["👄","😠"]
+        },
+        {
+          "image_file": "wa_mouth_9.webp",
+          "emojis": ["👄","🌹"]
+        },
+        {
+          "image_file": "wa_mouth_10.webp",
+          "emojis": ["👄","✨"]
+        },
+        {
+          "image_file": "wa_mouth_11.webp",
+          "emojis": ["👄","🍭"]
+        },
+        {
+          "image_file": "wa_mouth_12.webp",
+          "emojis": ["👄","✨"]
+        },
+        {
+          "image_file": "wa_mouth_13.webp",
+          "emojis": ["👄","✨"]
+        },
+        {
+          "image_file": "wa_mouth_14.webp",
+          "emojis": ["💋","❤"]
+        },
+        {
+          "image_file": "wa_mouth_15.webp",
+          "emojis": ["👄","💄"]
+        },
+        {
+          "image_file": "wa_mouth_16.webp",
+          "emojis": ["👄","😍"]
+        },
+        {
+          "image_file": "wa_mouth_17.webp",
+          "emojis": ["👄","🛤"]
+        },
+        {
+          "image_file": "wa_mouth_18.webp",
+          "emojis": ["👄","😃"]
+        },
+        {
+          "image_file": "wa_mouth_19.webp",
+          "emojis": ["👄","💄"]
+        },
+        {
+          "image_file": "wa_mouth_20.webp",
+          "emojis": ["👄","😍"]
+        },
+        {
+          "image_file": "wa_mouth_21.webp",
+          "emojis": ["👄","💄"]
+        },
+        {
+          "image_file": "wa_mouth_22.webp",
+          "emojis": ["👄","💄"]
+        },
+        {
+          "image_file": "wa_mouth_23.webp",
+          "emojis": ["👄","💄"]
+        },
+        {
+          "image_file": "wa_mouth_24.webp",
+          "emojis": ["👄","🍬"]
+        },
+        {
+          "image_file": "wa_mouth_25.webp",
+          "emojis": ["👄","👅"]
+        },
+        {
+          "image_file": "wa_mouth_26.webp",
+          "emojis": ["👄","🍭"]
+        },
+        {
+          "image_file": "wa_mouth_27.webp",
+          "emojis": ["👄","❤"]
+        },
+        {
+          "image_file": "wa_mouth_28.webp",
+          "emojis": ["👄","🤘"]
+        },
+        {
+          "image_file": "wa_mouth_29.webp",
+          "emojis": ["👄","😲"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "tom-n-jerry",
+      "name": "Tom & Jerry",
+      "publisher": "Dinesh",
+      "tray_image_file": "tray_Tom-n-Jerry.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers/",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "01_tj.webp"
+        },
+        {
+          "image_file": "02_tj.webp"
+        },
+        {
+          "image_file": "03_tj.webp"
+        },
+        {
+          "image_file": "04_tj.webp"
+        },
+        {
+          "image_file": "05_tj.webp"
+        },
+        {
+          "image_file": "06_tj.webp"
+        },
+        {
+          "image_file": "07_tj.webp"
+        },
+        {
+          "image_file": "08_tj.webp"
+        },
+        {
+          "image_file": "09_tj.webp"
+        },
+        {
+          "image_file": "10_tj.webp"
+        },
+        {
+          "image_file": "11_tj.webp"
+        },
+        {
+          "image_file": "12_tj.webp"
+        },
+        {
+          "image_file": "13_tj.webp"
+        },
+        {
+          "image_file": "14_tj.webp"
+        },
+        {
+          "image_file": "15_tj.webp"
+        },
+        {
+          "image_file": "16_tj.webp"
+        },
+        {
+          "image_file": "17_tj.webp"
+        },
+        {
+          "image_file": "18_tj.webp"
+        },
+        {
+          "image_file": "19_tj.webp"
+        },
+        {
+          "image_file": "20_tj.webp"
+        },
+        {
+          "image_file": "21_tj.webp"
+        },
+        {
+          "image_file": "22_tj.webp"
+        },
+        {
+          "image_file": "23_tj.webp"
+        },
+        {
+          "image_file": "24_tj.webp"
+        },
+        {
+          "image_file": "25_tj.webp"
+        },
+        {
+          "image_file": "26_tj.webp"
+        },
+        {
+          "image_file": "27_tj.webp"
+        },
+        {
+          "image_file": "28_tj.webp"
+        },
+        {
+          "image_file": "29_tj.webp"
+        },
+        {
+          "image_file": "30_tj.webp"
+        }
+      ]
+    },
+
+    {
+      "identifier": "mario",
+      "name": "Mario",
+      "publisher": "Dinesh",
+      "tray_image_file": "mario.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers/",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "smario1.webp"
+        },{
+          "image_file": "smario2.webp"
+        },{
+          "image_file": "smario3.webp"
+        },{
+          "image_file": "smario4.webp"
+        },{
+          "image_file": "smario5.webp"
+        },{
+          "image_file": "smario6.webp"
+        },{
+          "image_file": "smario7.webp"
+        },{
+          "image_file": "smario8.webp"
+        },{
+          "image_file": "smario9.webp"
+        },{
+          "image_file": "smario10.webp"
+        },{
+          "image_file": "smario11.webp"
+        },{
+          "image_file": "smario12.webp"
+        },{
+          "image_file": "smario13.webp"
+        },{
+          "image_file": "smario14.webp"
+        },{
+          "image_file": "smario15.webp"
+        },{
+          "image_file": "smario16.webp"
+        },{
+          "image_file": "smario17.webp"
+        },{
+          "image_file": "smario18.webp"
+        },{
+          "image_file": "smario19.webp"
+        },{
+          "image_file": "smario20.webp"
+        },{
+          "image_file": "smario21.webp"
+        },{
+          "image_file": "smario22.webp"
+        },{
+          "image_file": "smario23.webp"
+        },{
+          "image_file": "smario24.webp"
+        },{
+          "image_file": "smario25.webp"
+        },{
+          "image_file": "smario26.webp"
+        },{
+          "image_file": "smario27.webp"
+        },{
+          "image_file": "smario28.webp"
+        },{
+          "image_file": "smario29.webp"
+        },{
+          "image_file": "smario30.webp"
+        }
+      ]
+    },
+
+    {
+      "identifier": "gurl",
+      "name": "Barbie Girl",
+      "publisher": "Dinesh",
+      "tray_image_file": "tray_Gurl.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "01_gurl.webp"
+        },
+        {
+          "image_file": "02_gurl.webp"
+        },
+        {
+          "image_file": "03_gurl.webp"
+        },
+       
+        {
+          "image_file": "08_gurl.webp"
+        },
+        {
+          "image_file": "09_gurl.webp"
+        },
+        {
+          "image_file": "10_gurl.webp"
+        },
+        {
+          "image_file": "11_gurl.webp"
+        },
+        
+        {
+          "image_file": "13_gurl.webp"
+        },
+        {
+          "image_file": "14_gurl.webp"
+        },
+        {
+          "image_file": "15_gurl.webp"
+        },
+        {
+          "image_file": "16_gurl.webp"
+        },
+        {
+          "image_file": "17_gurl.webp"
+        },
+        {
+          "image_file": "18_gurl.webp"
+        },
+        {
+          "image_file": "19_gurl.webp"
+        },
+
+        {
+          "image_file": "21_gurl.webp"
+        },
+        {
+          "image_file": "22_gurl.webp"
+        },
+        {
+          "image_file": "23_gurl.webp"
+        },
+        {
+          "image_file": "24_gurl.webp"
+        },
+        {
+          "image_file": "25_gurl.webp"
+        },
+        {
+          "image_file": "26_gurl.webp"
+        },
+        {
+          "image_file": "27_gurl.webp"
+        },
+
+        {
+          "image_file": "29_gurl.webp"
+        },
+        {
+          "image_file": "30_gurl.webp"
+        }
+      ]
+    },
+
+    {
+      "identifier": "gurl2",
+      "name": "Girl",
+      "publisher": "Dinesh",
+      "tray_image_file": "tray_Gurl2.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "31_gurl.webp"
+        },
+        {
+          "image_file": "32_gurl.webp"
+        },
+        {
+          "image_file": "33_gurl.webp"
+        },
+        {
+          "image_file": "34_gurl.webp"
+        },
+        {
+          "image_file": "35_gurl.webp"
+        },
+        {
+          "image_file": "36_gurl.webp"
+        },
+        {
+          "image_file": "37_gurl.webp"
+        },
+        {
+          "image_file": "38_gurl.webp"
+        },
+        {
+          "image_file": "39_gurl.webp"
+        }
+
+      ]
+    },
+
+    {
+      "identifier": "Tweety",
+      "name": "Tweety",
+      "publisher": "Dinesh",
+      "tray_image_file": "tweet.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier": "1027_devil",
+      "name": "Devil",
+      "publisher": "Dinesh",
+      "tray_image_file": "logo_devil.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        }
+
+      ]
+    },
+
+    {
+      "identifier": "1029_love2",
+      "name": "Love Text",
+      "publisher": "Dinesh",
+      "tray_image_file": "love_text.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        }
+      ]
+    },
+
+    {
+      "identifier": "cute_animals",
+      "name": "Cute Animals",
+      "publisher": "Dinesh",
+      "tray_image_file": "icon.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "wa_cute_animals_1.webp",
+          "emojis": ["😼","❤"]
+        },
+        {
+          "image_file": "wa_cute_animals_2.webp",
+          "emojis": ["🐑","❤"]
+        },
+        {
+          "image_file": "wa_cute_animals_0.webp",
+          "emojis": ["🐻","❤"]
+        },
+        {
+          "image_file": "wa_cute_animals_3.webp",
+          "emojis": ["🐼","❤"]
+        },
+        {
+          "image_file": "wa_cute_animals_4.webp",
+          "emojis": ["🐻","❤"]
+        },
+        {
+          "image_file": "wa_cute_animals_5.webp",
+          "emojis": ["🐻","📷"]
+        },
+        {
+          "image_file": "wa_cute_animals_6.webp",
+          "emojis": ["🐻","👧"]
+        },
+        {
+          "image_file": "wa_cute_animals_7.webp",
+          "emojis": ["🐻","💐"]
+        },
+        {
+          "image_file": "wa_cute_animals_8.webp",
+          "emojis": ["😻","❤"]
+        },
+        {
+          "image_file": "wa_cute_animals_9.webp",
+          "emojis": ["😻","❤"]
+        },
+        {
+          "image_file": "wa_cute_animals_10.webp",
+          "emojis": ["🐻","😍"]
+        },
+        {
+          "image_file": "wa_cute_animals_11.webp",
+          "emojis": ["🐻","😢"]
+        },
+        {
+          "image_file": "wa_cute_animals_12.webp",
+          "emojis": ["🦊","😍"]
+        },
+        {
+          "image_file": "wa_cute_animals_13.webp",
+          "emojis": ["🐻","❤"]
+        },
+        {
+          "image_file": "wa_cute_animals_14.webp",
+          "emojis": ["😸","❤"]
+        },
+        {
+          "image_file": "wa_cute_animals_15.webp",
+          "emojis": ["🐼","❤"]
+        },
+        {
+          "image_file": "wa_cute_animals_16.webp",
+          "emojis": ["😸","🌹"]
+        },
+        {
+          "image_file": "wa_cute_animals_17.webp",
+          "emojis": ["😸","❤"]
+        },
+        {
+          "image_file": "wa_cute_animals_18.webp",
+          "emojis": ["🐰","❤"]
+        },
+        {
+          "image_file": "wa_cute_animals_19.webp",
+          "emojis": ["🐻","😘"]
+        },
+        {
+          "image_file": "wa_cute_animals_20.webp",
+          "emojis": ["🐻","❤"]
+        },
+        {
+          "image_file": "wa_cute_animals_21.webp",
+          "emojis": ["🐻","❤"]
+        },
+        {
+          "image_file": "wa_cute_animals_22.webp",
+          "emojis": ["🐻","❤"]
+        },
+        {
+          "image_file": "wa_cute_animals_23.webp",
+          "emojis": ["😻","❤"]
+        },
+        {
+          "image_file": "wa_cute_animals_24.webp",
+          "emojis": ["🐔","❤"]
+        },
+        {
+          "image_file": "wa_cute_animals_25.webp",
+          "emojis": ["🐔","😍"]
+        },
+        {
+          "image_file": "wa_cute_animals_26.webp",
+          "emojis": ["🐔","👍"]
+        },
+        {
+          "image_file": "wa_cute_animals_27.webp",
+          "emojis": ["🐔","💤"]
+        },
+        {
+          "image_file": "wa_cute_animals_28.webp",
+          "emojis": ["🐧","🌹"]
+        },
+        {
+          "image_file": "wa_cute_animals_29.webp",
+          "emojis": ["🐵","😍"]
+        }
+        ]
+    },
+
+    {
+      "identifier": "the_lovers_sticker",
+      "name": "Lovers Sticker",
+      "publisher": "Dinesh",
+      "tray_image_file": "love_icon.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "😁",
+            "😁"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😁",
+            "😁"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😬",
+            "😬"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+
+  ]
+}
